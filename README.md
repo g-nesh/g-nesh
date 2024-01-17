@@ -25,5 +25,5 @@
     srcset="https://github-readme-streak-stats.herokuapp.com/?user=g-nesh&hide_border=false"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=g-nesh&hide_border=true" alt="Mohib's GitHub streaks" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=g-nesh&hide_border=true" alt="Ganesh's GitHub streaks" />
 </picture>
