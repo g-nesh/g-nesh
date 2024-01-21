@@ -14,7 +14,7 @@
 **Languages and Tools:**
 
 <!-- [![My Skills](https://skills.thijs.gg/icons?i=js,ts,sass,tailwindcss,react,nextjs,redux,nodejs,express,mongodb,postgres)](https://skills.thijs.gg) -->
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,ts,sass,tailwindcss,react)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,bootstrap,react,sass,tailwindcss,ts)](https://skills.thijs.gg)
 
 <picture>
   <source
@@ -27,3 +27,5 @@
   />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=g-nesh&hide_border=true" alt="Ganesh's GitHub streaks" />
 </picture>
+
+
